@@ -1,4 +1,4 @@
-# 📊 Proyecto 2: Resumen Ejecutivo de Ventas – Walmart
+# 📊 Resumen Ejecutivo de Ventas – Walmart
 
 ## 🧠 Contexto
 
